@@ -1,16 +1,6 @@
 #include<iostream>
-class Student
-{
-
-};
 int main()
 {
-  Student S;
-  Student* S1 = new Student();
-
-  Student S2=S;
-
-  Student S3;
-  S=S3;
+  std::cout<<"Hello Guys";
   return 0;
 }
